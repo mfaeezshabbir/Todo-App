@@ -9,6 +9,8 @@ body {
 .todo-app {
   font-family: Arial, sans-serif;
   padding: 20px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
 }
 .header {
   display: flex;
