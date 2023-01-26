@@ -5,7 +5,6 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
-
 .todo-app {
   font-family: Arial, sans-serif;
   padding: 20px;
@@ -23,11 +22,11 @@ span {
   color: #e6e203;
 }
 
-.site:hover h1{
+.site:hover h1 {
   color: #e6e203;
   cursor: pointer;
 }
-.site:hover span{
+.site:hover span {
   color: #f4f4f4;
 }
 
@@ -47,7 +46,7 @@ form {
 #new-task:focus {
   border: none;
 }
-.textAdd{
+.textAdd {
   width: 92%;
   margin: auto;
 }
@@ -99,7 +98,8 @@ form {
   margin-bottom: 3px;
 }
 
-h1,a {
+h1,
+a {
   color: #f4f4f4;
   text-decoration: none;
 }
